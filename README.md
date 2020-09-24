@@ -16,3 +16,10 @@
    
    ![pie_chart](https://user-images.githubusercontent.com/71015831/94136062-ff8eb400-fe81-11ea-9c73-2130d8824979.png)
    
+## CONCLUSION
+  Necessary conclusions are drawn where ever required in the above .ipynb file .
+  
+  
+   THANK YOU :)
+
+   
